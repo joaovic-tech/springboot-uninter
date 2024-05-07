@@ -1,13 +1,13 @@
-package br.com.springbootuninte;
+package br.com.springbootuninter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootUninteApplication {
+public class SpringbootuninterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootUninteApplication.class, args);
+		SpringApplication.run(SpringbootuninterApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package br.com.springbootuninte;
+package br.com.springbootuninter;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(SpringbootUninteApplication.class);
+		return application.sources(SpringbootuninterApplication.class);
 	}
 
 }
