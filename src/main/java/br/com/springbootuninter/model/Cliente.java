@@ -68,10 +68,10 @@ public class Cliente {
 		this.telefone = telefone;
 	}
 	public String getCelulcar() {
-		return celulcar;
+		return celular;
 	}
 	public void setCelulcar(String celulcar) {
-		this.celulcar = celulcar;
+		this.celular = celulcar;
 	}
 	public String getEmail() {
 		return email;
